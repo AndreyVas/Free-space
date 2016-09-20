@@ -1,0 +1,115 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.root
+{
+	/*-fx-background-color:black;*/
+	-fx-pref-width:600px;
+	-fx-max-width:600px;
+	-fx-min-width:600px;
+}
+
+.mainPane 
+{
+
+}
+
+
+.tabPane
+{
+
+}
+
+/*------------------------------------tab-----------------------------------------*/
+
+.tabControls
+{
+	-fx-pref-height:30.0px;
+	-fx-pref-width:200.0px;
+}
+
+/*----------------------------------add tab---------------------------------------*/
+
+.addTabContentBoxes
+{
+	-fx-padding:5px;
+}
+
+.addTabTitls
+{
+	-fx-padding:5px;
+	-fx-font-size:14px;
+}
+
+ 
+/*-------------------------add tab, location name area----------------------------*/
+
+.addTabLocationName
+{
+	-fx-pref-height:30.0px;
+	-fx-pref-width:200.0px;
+}
+
+.addTabLocationNameBoxe
+{
+	-fx-padding: 20px 0.0px 0px 90px;
+	-fx-font-size:14px;	
+}
+
+/*---------------------------add tab, add drive area------------------------------*/
+
+.addTabAddDriveControls
+{
+	 -fx-pref-height:30.0px;
+	 -fx-pref-width:200.0px;
+
+}
+
+/*----------------------------add tab, add mail area------------------------------*/
+
+.addTabAddMailControls
+{
+	-fx-pref-height:30.0px;
+	-fx-pref-width:200.0px;
+}
+
+/*------------------------------add tab, save area--------------------------------*/
+
+.addTabSaveCont
+{
+	-fx-padding:5px;
+	-fx-alignment:baseline-right ;
+	-fx-pref-height:60.0px;
+}
+
+.addTabSaveItem
+{
+	-fx-pref-height:30.0px;
+	-fx-pref-width:200.0px;
+}
+
+/*------------------------------show drive details--------------------------------*/
+/* 
+.showDriveDetilsScrollPane
+{
+	-fx-pref-width:800px;
+	-fx-pref-height:600px;
+}
+
+.showDriveDetailsPane
+{
+		
+}
+
+.showDriveDetailsCont
+{
+	-fx-pref-height:300px;
+	-fx-background-color:black;
+}
+
+.treeTableView
+{
+	-fx-max-height:100.0% ;
+	-fx-min-height:0.0 ;
+}
+* 
+* */

@@ -1,0 +1,34 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.root
+{
+	/*-fx-background-color:black;*/
+	-fx-pref-width:800px;
+	-fx-max-width:800px;
+	-fx-min-width:800px;
+	
+	-fx-pref-height:500px;
+}
+
+/*------------------------------show drive details--------------------------------*/
+
+.showDriveDetilsScrollPane
+{
+
+}
+
+.showDriveDetailsPane /*anchor pane */
+{
+
+
+}
+
+.showDriveDetailsCont
+{
+
+}
+
+.treeTableView
+{
+
+}

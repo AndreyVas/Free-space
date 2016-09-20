@@ -1,0 +1,36 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.root
+{
+	/*-fx-background-color:black;*/
+	-fx-pref-width:600px;
+	-fx-max-width:600px;
+	-fx-min-width:600px;
+	
+	-fx-pref-height:500px;
+}
+
+.label
+{
+	-fx-pref-width:350px;
+	-fx-pref-height:30px;
+	
+	-fx-font-size:14px;
+	
+	-fx-padding:8px;
+}
+
+.button
+{
+	-fx-pref-width:100px;
+	-fx-padding:10;
+}
+
+.textField
+{
+	-fx-pref-width:30px;
+	-fx-max-width:30px;
+	-fx-min-width:30px;
+	
+	-fx-pref-height:30px;
+}
